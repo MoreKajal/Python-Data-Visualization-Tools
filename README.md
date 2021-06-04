@@ -9,7 +9,7 @@ Data Visualization using Python
    Matplotlibs : plots and graphs (most popular),
    Seaborn : plots(heat maps, time series, violin plots)
   
-3.Algorithmic Libraries : 
+ 3.Algorithmic Libraries : 
    Scikit-learn : Machine learning- Regression, classification and so on... ,
    Statsmodel : Explore data, estimate statistical models, and perform statistical tests.
   
